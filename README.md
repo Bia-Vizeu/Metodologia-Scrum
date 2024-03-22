@@ -2,7 +2,7 @@
 ### Trabalho - LER
 ##### Levantamento de Requisitos
 
-<img src="https://www.eldorado.org.br/wp-content/uploads/2023/06/shutterstock_1362102449-1.jpg" style="width:px"><br>
+<img src="fundo.jpg" style="width:px"><br>
 
 ### Introdução
 A metodologia Scrum é uma excelente alternativa para realizar projetos complexos na empresa. Baseada nos princípios dos métodos ágeis, ela tem como objetivo reduzir o tempo de entrega de produtos e se adaptar a mudanças com maior facilidade durante as etapas produtivas.
